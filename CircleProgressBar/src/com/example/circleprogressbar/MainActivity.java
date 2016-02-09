@@ -1,5 +1,8 @@
 package com.example.circleprogressbar;
-
+/**
+ * Main activity implementing circle progress bar.
+ * @author olivier Sofia.
+ */
 import android.app.Activity;
 import android.content.Context;
 import android.location.Location;
